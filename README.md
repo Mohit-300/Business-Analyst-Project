@@ -4,9 +4,9 @@
 Analyze business data to identify trends, KPIs, and insights for decision-making.
 
 ## Tools Used
-- Excel (Data Cleaning)
+- Excel (Data Cleaning, Pivot Tables, Dashboards)
 - SQL (Analysis & Queries)
-- Power BI (Dashboard & Visualization)
+- Power BI (Dashboard & Visualization) 
 
 ## Work Done
 - Cleaned raw data and handled missing values
